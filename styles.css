@@ -1,0 +1,56 @@
+h1{
+    display: flex;
+    background: whitesmoke;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.card{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 5px solid black;
+    background-color: white;
+    width: 400px;
+	height: 400px;
+    position: 50px;
+}
+.card1{
+    margin: 0 auto;
+    border: 5px solid black;
+    background-color: white;
+    width: 400px;
+	height: 400px;
+    position: 50px;
+    margin-bottom: 20px;
+}
+.card2{
+    margin: 0 auto;
+    border: 5px solid black;
+    background-color: white;
+    width: 400px;
+	height: 400px;
+    position: 50px;
+    margin-bottom: 20px;
+}
+.card3{
+    margin: 0 auto;
+    border: 5px solid black;
+    background-color: white;
+    width: 400px;
+	height: 375px;
+    position: 50px;
+    margin-bottom: 20px;
+}
+.header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 5px;
+}
+img{
+    width: 400px;
+    height: 225px;
+}
+.body, html{
+    background: gainsboro;
+}
